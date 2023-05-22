@@ -1,0 +1,35 @@
+.navbar_mainContainer{
+  margin-top:16px
+}
+.navContaier {
+  display: flex;
+}
+.navContainer_image {
+  display: flex;
+  align-items: center;
+  margin-top: -10px;
+}
+.navContaier ul {
+  list-style-type: none;
+  display: flex;
+  
+}
+.navContaier ul li {
+    font-size: 1rem;
+    line-height: 20px;
+    font-weight: 700;
+    color: #2d2d32;
+    letter-spacing: -.3px;
+    padding:15px
+
+}
+.navContaier .rightNavbar span {
+  font-size: 1rem;
+  padding: 15px;
+}
+.navContaier .rightNavbar {
+  display: flex;
+}
+.loginButton{
+  padding: 15px;
+}

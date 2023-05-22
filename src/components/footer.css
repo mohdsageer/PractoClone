@@ -1,0 +1,18 @@
+#footer_section {
+    min-width: 100vw !important;
+    width: 100%;
+}
+
+#footer_top {
+    width: 100% !important;
+
+}
+
+.footerdata {
+    min-width: 163px;
+    padding: 1rem;
+}
+
+.footerdata>h3 {
+    margin-top: 3rem;
+}
